@@ -1,0 +1,16 @@
+{
+  "name": "my-isobel-app",
+  "version": "1.0.0",
+  "description": "Private implementation of Isobel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nathan Simpson",
+  "dependencies": {
+    "@isobel/core": "^0.1.0",
+    "@isobel/file-system": "^0.1.2",
+    "@isobel/nasa": "^0.1.0",
+    "@isobel/s3": "^0.1.0"
+  }
+}
